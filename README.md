@@ -10,7 +10,7 @@ The project mirrors how modern teams evolve internal documentation platforms:
 
 ***Incrementally, Intentionally, and with Architecture guiding every stage of growth.***
 
-
+![Preview of Documnetation Platform](preview.png)
 
 ------------------------------------------------------------------------
 
