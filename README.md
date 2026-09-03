@@ -24,7 +24,9 @@ This project focuses on:
 - Understanding WHERE AI adds value, and WHERE it should be governed
 - Balancing developer experience (DX) with broader technical needs *(human and machine alike)*
 
-APIs are used as the first example input, but the pipeline is intentionally designed to be extensible to other technical documentation domains, and consumable by both human readers and AI agents.
+APIs are used as the first example input, but the pipeline is intentionally designed to be extensible to other technical documentation domains and consumable by both human readers and AI agents.
+
+**NOTE:** This project focuses on documentation generation and enhancement. For a companion project on serving and diagnosing existing documentation via MCP, see [`AcmeCloud-Docs-Infrastructure`](https://github.com/PrineetKaur/AcmeCloud-Docs-Infrastructure).
 
 ------------------------------------------------------------------------
 
